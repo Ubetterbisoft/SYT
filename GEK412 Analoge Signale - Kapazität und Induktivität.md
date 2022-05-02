@@ -20,14 +20,17 @@ Diese Ausarbeitung entstand im Rahmen eines schulischen Arbeitsauftrages. Es wer
 
 ## Grundanforderungen
 
-* Welche Kenndaten gibt es bei diesen zwei Bauteilen?
-  * A:
+* Welche Kenndaten gibt es bei den Kondensator und den Spulen?
+  * Kondensator: Kapazität, maximalen Spannung und Toleranz
+  * Spulen: Anzahl der Windungen, Durchmesser des Leiters und Art des Eisenkern
 * Welche Prinzipien stehen hinter diesen beiden Bauteilen?
-  * A:
+  * A: Legt man an einen **Kondensator** im Gleichstromkreis eine Spannung an, so lädt er sich auf. Verbindet  man die Anschlüsse miteinander, so entlädt er sich. Durch den **Kondensator** hindurch fließt aber kein Strom. Er bildet im Gleichstromkreis einen unendlich großen Widerstand.
+  * A: In einer **Spule** ist der  Leitungsdraht in sehr vielen Windungen übereinander gewickelt. Jede  einzelne Wicklungsschleife wirkt wie ein kreisförmiger Leiter. Die  einzelnen Magnetfelder, die jede der Wicklungsschleifen umgeben,  überlagern sich zu einem intensiven Gesamtfeld.
 * Welche verschiedenen Bauformen gibt es?
-  * A:
+  * A: Drehkondensatoren und Trimmkondensatoren
+  * A: Zylindrische Spule, Flache Spule und Rechteckige Spule.
 * Wie berechnet man die Auf- und Entladezeit eines Kondensators?
-  * A:
+  * t(volleladezeit) = C * R * 5 
 
 #### Schaltung Tinkercad:
 
@@ -77,3 +80,14 @@ A:     ![grafik](https://user-images.githubusercontent.com/78872776/161542644-3c
 
 Rechnung:
 
+https://www.lernhelfer.de/schuelerlexikon/physik/artikel/spule
+
+https://www.elektronik-kompendium.de/sites/bau/0207221.htm
+
+https://www.hobbyelektroniker.ch/grundlagen/kondensatoren/
+
+https://www.elektroniktutor.de/bauteilkunde/c_bauf.html
+
+https://www.elektronik-kompendium.de/sites/bau/0207221.htm
+
+https://www.leifiphysik.de/elektrizitaetslehre/kondensator-kapazitaet/grundwissen/kondensator-und-kapazitaet
