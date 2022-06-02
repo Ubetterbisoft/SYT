@@ -1,14 +1,33 @@
 # Analoge Signale - Signale weiterleiten
 
+### Autor: Dejan Rajic
+
+### Datum: 30.05.2022
+
+## Theorie
+
+Welche verschiedenen Arten von Übertragungsmedien werden heutzutage verwendet um über weite Strecken Signale und Informationen zu versenden und zu empfangen ?
+
+* A: Radio, Licht, Luft
+
+Wann werden diese bevorzugt eingesetzt und was sind deren Haupteigenschaften?
+
+* A: Funk wird eingesetzt wenn etwas an alle Menschen in einem bestimmten Umkreis übertragen werden soll. Die Luft ist das übertragungsmedium, deshalb ist es sehr Kostengünstig
+* A: Licht wird für Lichtwellenleiter verwendet (Glasfaser). Lichtwellenleiter haben höhere übertragungsraten
 
 
-Radio, Licht, Luft
+
+
+
+
 
 
 
 Funkt ist eine elektromagnetische Welle (Wecheslstrom mit länge von paar km, Gamma Strahlung bis paar nanometern)
 
 
+
+## Fragestellungen
 
 ### Grundlegend
 
@@ -33,6 +52,8 @@ Funkt ist eine elektromagnetische Welle (Wecheslstrom mit länge von paar km, Ga
   - Dublexabstand 
     - Der Abstand zwischen Hin- und Rückkanal wird als Duplexabstand bezeichnet.
 - Wie unterscheiden sich die einzelnen Frequenzfilter?
+
+### Erweitert
 
 
 
