@@ -4,6 +4,16 @@
 
 ### Datum: 30.05.2022
 
+## Einführung
+
+In der Signalverarbeitung ist eine Weiterleitung von Informationen sehr wichtig. Auf welche Art und Weise können Informationen weitergeleitet werden und welche Medien bieten sich dafür an? Wie können mehrere Nutzer gleichzeitig an einer Leitung angeschlossen sein ohne Störungen bei der Übertragung zu verursachen. Diese und viele weitere Fragen werden in der folgenden Dokumentation beantwortet.
+
+## Projektbeschreibung
+
+In der folgenden Dokumentation werden wichtige und interessante Fragen über die Datenverarbeitung und Weiterleitung von Signalen beantwortet und behandelt. Die Dokumentation entstand im rahmen einer Schulischen Ausarbeitung. Ich habe die jeweiligen Fragen die in den verschiedenen Gliedern (Detailierte Aufgabenbeschreibung, Fragestellungen beim Abgabegespräch und die Erweiterten Fragestellungen) so gut  ich konnte mit meinen aktuellen Wissen beantwortet. Die Informationen auf die ich mich in dieser Ausarbeitung beziehe stehen sind alle in der Rubrik Quellen ersichtlich.
+
+
+
 ## Theorie
 
 ##### Welche verschiedenen Arten von Übertragungsmedien werden heutzutage verwendet um über weite Strecken Signale und Informationen zu versenden und zu empfangen ?
@@ -149,10 +159,14 @@ Hochpass:
   * Die **Grenzfrequenz**  entspricht in der Elektro- und Nachrichtentechnik der Frequenz, ab der  die Amplitude eines Signals auf einen bestimmten Wert abfällt. 
 
   1. f=12⋅ π⋅R⋅C.
-
   2. R=12⋅ π⋅f⋅C.
-
   3. C=12⋅ π⋅f⋅R.
+
+
+
+## Zusammenfassung
+
+Abschließend lässt sich zusammenfassend sagen, dass Informationen übertragen werden müssen um von Punkt A zu Punkt B zu kommen. Dabei spielt die Auswahl des Übertragungsmediums eine entscheidende Rolle. Es gibt verschiedene Übertragungswege wie (Luft, Kabel, oder Licht). Jeder von ihnen hat seine Vor und Nachteile, sein es Kosten, Übertragungsgeschwindigkeit oder Reichweite. Ebenfalls kann man mit den verschiedenen Duplex varianten für ein gleichzeitiges Senden und Empfangen von Signalen sorgen. Bei der Symmetrischen  Synchronisation werden Adern paare im übertragungsmedium verwendet um Fehler mit einer entgegengesetzten Polarität zu vermeiden. Beim Symmetrischen wird keine entgegengesetzte Polarität verwendet. Tiefpässe lassen nur Frequenzen durch die unter einer Bestimmten Grenzlinie liegen. Hochpässe lassen sie nur durch wenn sie über der Grenzlinie liegen. 
 
 # Quellen
 
