@@ -7,7 +7,10 @@ Fragestellungen:
 - Was ist ein Mikrocontroller und wie ist dieser aufgebaut?
   - Ein Mikrocontroller ist ein Halbleiterchip. Er bildet ein  Ein-Chip-Computersystem
 - Was sind *Timer, EEPROM, Flash, SRAM, A/D Converter und Oscillator* im Blockschaltdiagramm und welche Aufgaben haben sie?
-  - selber recherchieren
+  - Timer: Ist ein integriertes Funktionsmodul, welcher beim Zählen von Ergebnissen und Messen von Zeitabständen zuständig ist
+  - EEPROM:  EPROMs sind **elektronische Speicher, die in einem entsprechenden Programmiergerät elektrisch  programmiert und mit UV-Licht, meist aus einem speziellen Löschgerät,  wieder gelöscht werden können**.
+  - Flash:  Flash-Speicher sind **digitale Speicherbausteine für eine nichtflüchtige Speicherung ohne Erhaltungs-Energieverbrauch**.
+  - SRAM: 
 - Wo sind die grundsätzlichen Unterschiede zwischen einem PC und einem Mikrocontroller? Wie unterscheiden sich hier Anwendung und Entwicklung?
 - Welche Besonderheiten gibt es in Bezug auf das Betriebssystem?
 - Wie können Elektronikbauteile an den Mikrocontroller angeschlossen  werden? Was ist dabei zu beachten? Welche Rolle spielen dabei Pegel,  Konfiguration und Taktrate?
