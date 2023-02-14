@@ -29,7 +29,7 @@ Starte deine virtuelle Maschine oder verbinde dich mit einer Konsole auf einen L
   * cd: change directory, man wechselt in ein anderes Verzeichniss
   * cat: common, alternate spellings or phrasings ,[2] Der Befehl cat **liest die mit dem Parameter Datei angegebenen Dateien nacheinander und schreibt sie in die Standardausgabe**
   * echo: Wiederholt das was man ihm zu wiederholen gegeben hat(wie ein echo)
-  * ls: list, gibt eine Listevon Datein aus 
+  * ls: list, gibt eine Liste von Datein aus 
   * rmdir: remove directory, löscht ein Verzeichnis
   * man: manuel, gibt eine liste mit allen befehlen für das Terminal aus
   * exit: beendet ein programm oder schließt das Terminal
@@ -52,7 +52,7 @@ Starte deine virtuelle Maschine oder verbinde dich mit einer Konsole auf einen L
 * **Wo liegt der Unterschied zu absoluten Pfaden und relativen Pfaden?**
   * Ein absoluter Pfad ist immer der komplette Pfad. Er beginnt also immer in Wurzelverzeichnis /. Ein relativer Pfad beginnt immer im aktuellen Verzeichnis.
 * **Wie heißt der Befehl, der einen den aktuellen Ort mitteilt?**
-  * pwd
+  * Der Befehl heist: pwd
     * Beispiel: ``$ pwd``
       Output: /home/user/Documents
 * **Was ist das Heimverzeichnis?** 
@@ -60,7 +60,7 @@ Starte deine virtuelle Maschine oder verbinde dich mit einer Konsole auf einen L
 * **Wie gelangt man dorthin?**
   * ``$ cd /home/``
 * **In welchem Verzeichnis liegen die meisten Benutzer-Befehle unter Linux?**
-  * Die meisten Befehle befinden sich in Form von Programmen in bin/
+  * Die meisten Befehle befinden sich in Form von Programmen in  Verzeichnis bin/
   * Dieses Verzeichnis lässt sich mithilfe von ``$ cd /bin/ erreichen``
 * **Wo liegt der Unterschied zu absoluten Pfaden? Und was sind `.` und `..`?**
   * [4]**Ein absoluter Pfad ist immer der komplette Pfad.** **Er beginnt also immer in Wurzelverzeichnis /.** **Ein relativer Pfad beginnt immer im aktuellen Verzeichnis**.
@@ -87,7 +87,7 @@ Starte deine virtuelle Maschine oder verbinde dich mit einer Konsole auf einen L
 * **Und wenn das in die eine Richtung geht, kann man auch aus einer Datei Befehle bestimmte**
   **Informationen übergeben?**
 
-  * Ja mit <
+  * Ja das geht mit <
 
 * **Schreibe in eine Datei namens ~/Hallo.txt den Text "Hallo Welt!". Welcher Befehl bietet**
   **sich dafür an? Was bedeutet die ~ ?**
@@ -101,8 +101,7 @@ Starte deine virtuelle Maschine oder verbinde dich mit einer Konsole auf einen L
   * Beispiel: ls -h
 * **Wo liegt der Unterschied zwischen der Übergabe von einem oder zwei Bindestrichen bei der**
   **Verwendung von Optionen? (z.B. sudo -h und sudo --help )**
-  * Mit nur einem - sind die Optionen einfach kürzer gestaltet. Sie sind hier mit nur einem
-    Buchstaben verwendbar.
+  * Mit nur einem - sind die Optionen einfach kürzer gestaltet. Sie sind hier mit nur einem Buchstaben verwendbar.
   * Mit zwei -- müssen die Optionen länger als ein Buchstabe sein.
   * Beispiel: $ ls -h ist das Selbe wie $ ls --help
 * **Welche Funktionsweise hat die $PATH -Variable? Wie wird sie verwendet und wie ist sie unter**
