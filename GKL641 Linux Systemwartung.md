@@ -186,3 +186,19 @@ Wiederkehrende Aufgaben (Tasks) können mit dem Dienst `cron` oder auch dem `sys
 ![grafik](https://user-images.githubusercontent.com/78872776/220616714-f1aa9984-cc0d-4c23-96a4-688e1a276df7.png)
 
 die Log files werden nach vorgegebenen Schema erstellt immer mit dem aktuellen datum erstellt
+
+# Quellen
+
+* *How to enable or disable services in ubuntu systemd*, *LinuxOPsys*. Available at: https://linuxopsys.com/topics/enable-disable-services-ubuntu-systemd (Accessed: March 1, 2023).  
+
+* Linuxkumpel (2019) *Htop - Laufende prozesse und systemressourcen im blick*, *techgrube.de*. Available at: https://www.techgrube.de/programme-und-webdienste/htop-laufende-prozesse-und-systemressourcen-im-blick (Accessed: March 1, 2023).  
+
+* *Systemd* *Wikipedia*. Wikimedia Foundation. Available at: https://de.wikipedia.org/wiki/Systemd#/media/Datei:Systemd_components.svg (Accessed: March 1, 2023).  Ellingwood, J. (2021) 
+
+* Verwenden von Journalctl zum Anzeigen und Manipulieren von Systemd-Protokollen*, *DigitalOcean*. DigitalOcean. Available at: https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs-de (Accessed: March 1, 2023). 
+
+* The Linux Foundation (2022) *Classic sysadmin: Viewing linux logs from the command line*, *Linux Foundation*. The Linux Foundation. Available at: https://www.linuxfoundation.org/blog/blog/classic-sysadmin-viewing-linux-logs-from-the-command-line (Accessed: March 1, 2023).  
+
+* *Set up automatic unattended updates for ubuntu 20.04* (no date). Available at: https://www.cyberciti.biz/faq/set-up-automatic-unattended-updates-for-ubuntu-20-04/ (Accessed: March 1, 2023). 
+
+* *Ubuntuusers.de* *Cron ' Wiki ' ubuntuusers.de*. Available at: https://wiki.ubuntuusers.de/Cron/ (Accessed: March 1, 2023).
